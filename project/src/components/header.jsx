@@ -12,8 +12,8 @@ const Header = () => {
 
         <nav className="flex gap-6 mr-6">
           <a href="/" className="text-[#32DBC6] transition">Home</a>
-          <a href="/services" className="text-black hover:text-[#32DBC6] transition">Work</a>
-          <a href="/projects" className="text-black hover:text-[#32DBC6] transition">Services</a>
+          <a href="/work" className="text-black hover:text-[#32DBC6] transition">Work</a>
+          <a href="/services" className="text-black hover:text-[#32DBC6] transition">Services</a>
           <a href="/about" className="text-black hover:text-[#32DBC6] transition">About</a>
           <a href="/blog" className="text-black hover:text-[#32DBC6] transition">Blog</a>
           <a href="/contact" className="text-black hover:text-[#32DBC6] transition">Contact</a>
